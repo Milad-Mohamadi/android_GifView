@@ -13,8 +13,6 @@ Custom view for show any gif file
     android:layout_height="match_parent"
     android:layout_centerHorizontal="true"
     android:src="@drawable/loading"
-    app:layout_constraintLeft_toLeftOf="parent"
-    app:layout_constraintRight_toRightOf="parent"
     app:layout_constraintTop_toTopOf="parent"/>
 
 
