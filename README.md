@@ -7,9 +7,7 @@ Custom view for show any gif file
 
 3-use LGIFView in XML file
  
- 
- <com.example.lococoder.gifview.LGIFView
- 
+    <com.example.lococoder.gifview.LGIFView
     android:id="@+id/img_defult"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -18,6 +16,8 @@ Custom view for show any gif file
     app:layout_constraintLeft_toLeftOf="parent"
     app:layout_constraintRight_toRightOf="parent"
     app:layout_constraintTop_toTopOf="parent"/>
+
+
     
 4-MainActivity.java:
 
