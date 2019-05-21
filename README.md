@@ -1,5 +1,5 @@
 # android_GifView
-Custom view for show any gif file
+Custom view to show every gif file
 
 1-add .gif file to drawable
 
